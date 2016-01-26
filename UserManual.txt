@@ -1,0 +1,1 @@
+This is a sample user manual created to test the process of adding files to git.
